@@ -29,7 +29,7 @@
     ],
     "props": {
       "verticalAlign": "CENTER",
-      "preventVerticalStretch": "true"
+      "preventVerticalStretch": true
     }
   },
 
