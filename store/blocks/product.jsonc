@@ -52,8 +52,8 @@
   "flex-layout.row#qty-sku": {
     "children": [
       "sku-selector",
-      "product-quantity",
-      "shipping-simulator"
+      "product-quantity"
+      // "shipping-simulator"
     ]
   },
 
@@ -82,5 +82,5 @@
       "skuID": "342"
     }
   }
-  
+
 }
