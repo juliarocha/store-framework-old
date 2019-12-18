@@ -21,18 +21,6 @@
     ]
   },
 
-  "flex-layout.col#right": {
-    "children": [
-      "product-name",
-      "product-price",
-      "buy-button"
-    ],
-    "props": {
-      "verticalAlign": "CENTER",
-      "preventVerticalStretch": true
-    }
-  },
-
   "product-images": {
     "props": {
       "displayThumbnailsArrows": true
@@ -58,6 +46,18 @@
       "isOneClickBuy": true,
       "showTooltipOnSkuNotSelected": false
     }
+  },
+
+  "flex-layout.col#right": {
+    "props": {
+      "verticalAlign": "CENTER",
+      "preventVerticalStretch": true
+    },
+    "children": [
+      "product-name",
+      "product-price",
+      "buy-button"
+    ]
   }
 
 
