@@ -9,7 +9,7 @@
     "image": {
         "props": {
           "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
-          "minHeight": "100%"
+          "minWidth": "100%"
         }
     },
 
